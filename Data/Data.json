@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "title": "EMO",
+        "price": 209.5,
+        "description": "EMO will do anything to cheer up your mood. It will play music, perform dance moves, and suggest online games. EMO is more than a companion. It is like a pet with some advanced features that will never let you down. In a nutshell, it can feel, hear, sense, touch, learn, think, and communicate with you.",
+        "image": "https://www.indianai.in/wp-content/uploads/2021/05/EMO-AI-Desktop-Robotic-Pet.jpg",
+        "cover": "https://i0.wp.com/living.ai/wp-content/uploads/2020/12/01.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Misa",
+        "price": 109.5,
+        "description": "Misa is one of the top-notch social family robots. It performs all the actions a human would do, from handling your schedule and children when away from home to taking care of your home.",
+        "image": "https://c4.iggcdn.com/indiegogo-media-prod-cld/image/upload/c_fill,w_695,g_auto,q_auto,dpr_2.6,f_auto,h_460/hkqtgz6equohnhamwqxr",
+        "cover": "https://i.ytimg.com/vi/BQifS4a1y2A/maxresdefault.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Aibo",
+        "price": 109.5,
+        "description": "Aibo is curious and eager to learn every day. The robot loves spending time with you and your family and is fascinated by the toys. It also supports Wi-Fi connectivity and can automatically back up the data. Aibo performs all its tasks by AIBOLife software that gives the robot ability to walk, speak, and perform other tasks.",
+        "image": "https://s3-ap-northeast-1.amazonaws.com/psh-ex-ftnikkei-3937bb4/images/6/9/2/6/10276296-13-eng-GB/20171101_sony-s-new-robot-aibo.jpg",
+        "cover": "https://us.aibo.com/images/intro-mv-pc-0.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Vector",
+        "price": 109.5,
+        "description": "Another tiny robot determined to do big things. Vector is a predecessor to Emo, being arguably the first fully autonomous personal robot—a little robot sidekick, if you will.Vector packs quite a lot of tech into its tiny, three-inch body. It can navigate the world around itself with its HD camera and laser sensor (which Digital Dream Labs assure is thoroughly checked in quality control",
+        "image": "https://ksr-ugc.imgix.net/assets/021/998/266/7ab1971f32437aab1f38f17f024c5143_original.jpg?ixlib=rb-4.0.2&crop=faces&w=1024&h=576&fit=crop&v=1533835300&auto=format&frame=1&q=92&s=38ae1379fbc2fd27f2ef38ac62af6d3b",
+        "cover": "https://www.jumpstartmag.com/wp-content/uploads/2022/06/Vector-by-Digital-Dream-Labs.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Miko 3 by Miko",
+        "price": 109.5,
+        "description": "This one is for the kids! Children’s minds are developing at amazing speeds—it is only fair that they have a companion that has the gigabytes to keep up. Miko is an artificially intelligent companion designed specifically for children between the ages of 5-10 years. Comes encased within a shell of ABS Polymer, Miko is engineered to be impact-resistant and non-toxic—a perfect pal to roll with little ones who are still learning to be gentle.",
+        "image": "https://images-cdn.ispot.tv/ad/qg3s/default-large.jpg",
+        "cover": "https://www.nogentech.org/wp-content/uploads/2022/04/MIKO-Robot.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Eilik",
+        "price": 109.5,
+        "description": "It is a robot with a high level of emotional quotient and intelligence that helps bring a higher level of interactions with peers. With Eilik around you, life seems more manageable and fun.Eilik becomes insecure when you hold it above the ground. It loves to be above the ground, safely in your hands only. It will do all the things a friend or a family member will do to cheer you up.",
+        "image": "https://www.tuvie.com/wp-content/uploads/eilik-companion-bot1.jpg",
+        "cover": "https://geekflare.com/wp-content/uploads/2022/05/Eilik.png"
+    }
+]
